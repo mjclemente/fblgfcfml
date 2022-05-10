@@ -69,6 +69,6 @@ Archive a lead form. *[Further docs](https://developers.facebook.com/docs/market
 
 ### Reference Manual for `helpers.leadform`
 
-The reference manual for all public methods in `helpers/leadform.cfc` can be found in the `docs` directory, [in `leadform.md`](/fbccfml/blob/main/docs/fbevent.md). All methods are chainable.
+The reference manual for all public methods in `helpers/leadform.cfc` can be found in the `docs` directory, [in `leadform.md`](https://github.com/mjclemente/fblgfcfml/blob/main/docs/leadform.md). All methods are chainable.
 
 ---
