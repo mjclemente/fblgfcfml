@@ -18,7 +18,7 @@ This project borrows heavily from the API frameworks built by [jcberquist](https
 
 ## Quick Start
 
-The CFC is used to interact with the Lead Gen Forms in a Facebook account. Here's how you use it, along with the helper component for building lead gen forms:
+The CFC is used to interact with the Lead Forms in a Facebook account. Here's how you use it, along with the helper component, to build a new Lead Form:
 
 ```cfc
 fblgf = new path.to.fblgfcfml.facebookleadgenforms( access_token = 'xxx', page_id = 'xxx' );
