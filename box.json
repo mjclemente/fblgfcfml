@@ -1,35 +1,35 @@
 {
   "author": "Matthew Clemente <mjclemente@gmail.com>",
-  "location": "ForgeboxStorage",
-  "version": "0.0.0",
-  "bugs": "",
+  "location": "mjclemente/fblgfcfml#v1.0.0",
+  "version": "1.0.0",
+  "bugs": "https://github.com/mjclemente/fblgfcfml/issues",
   "changelog": "",
   "contributors": [],
   "dependencies": {},
-  "description": "",
+  "description": "A CFML wrapper for the Facebook Leadgen Forms API. Create and manage Facebook's lead forms via their marketing API.",
   "devDependencies": {
     "testbox": "^4.5.0+5"
   },
-  "documentation": "",
-  "homepage": "",
+  "documentation": "https://github.com/mjclemente/fblgfcfml#readme",
+  "homepage": "https://github.com/mjclemente/fblgfcfml",
   "ignore": ["**/.*", "/test/", "/tests/"],
   "installPaths": {
     "testbox": "testbox/"
   },
   "instructions": "",
-  "keywords": [],
+  "keywords": ["facebook", "api", "leadgen", "forms"],
   "license": [
     {
-      "type": "",
-      "URL": ""
+      "type": "MIT",
+      "URL": "https://github.com/mjclemente/fblgfcfml/blob/main/LICENSE"
     }
   ],
   "name": "Facebook Leadgen Forms - CFML",
   "private": false,
-  "projectURL": "",
+  "projectURL": "https://github.com/mjclemente/fblgfcfml",
   "repository": {
-    "type": "",
-    "URL": ""
+    "type": "git",
+    "URL": "https://github.com/mjclemente/fblgfcfml"
   },
   "scripts": {
     "format": "cfformat run tests/specs/**/*.cfc,facebookleadgenforms.cfc --overwrite",
