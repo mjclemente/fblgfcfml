@@ -5,7 +5,7 @@
 */
 component displayname="FBLGF CFML" {
 
-  variables._fblgfcfml_version = "1.0.0";
+  variables._fblgfcfml_version = "1.0.1";
 
   public any function init(
     string access_token = "",
